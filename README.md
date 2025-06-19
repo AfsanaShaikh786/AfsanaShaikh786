@@ -1,7 +1,7 @@
 ## Hi there 👋
 My name is Afsana, and I'm a FrontEnd Developer interested in all things Javascript & React!
 
-- 🔭 I’m currently working on my portfolio.
+- 🔭 I’m currently working on Crudapp.
 - 🌱 I’m currently learning MantineUI.
 - 👯 I recently build a kanban board to track sprint progress status.
 - 🤔 I’m looking for help with Realtime Project
